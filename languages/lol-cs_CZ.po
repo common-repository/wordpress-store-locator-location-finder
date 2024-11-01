@@ -1,0 +1,465 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Viadat Creations
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator\n"
+"POT-Creation-Date: 2009-02-10 20:31+0000\n"
+"PO-Revision-Date: 2009-02-23 06:55-0600\n"
+"Last-Translator: Viadat Creations <info@viadat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: add-locations.php:5
+#: functions.sl.php:394
+#: view-locations.php:195
+msgid "Add Locations"
+msgstr "Přidat lokalitu"
+
+#: add-locations.php:26
+msgid "Successful Addition"
+msgstr "Lokalita aktualizována"
+
+#: add-locations.php:79
+msgid "Type&nbsp;Address"
+msgstr "Pište adresu "
+
+#: add-locations.php:82
+msgid "The General Address Format"
+msgstr "Obecný format adresy"
+
+#: add-locations.php:82
+msgid "show/hide"
+msgstr "zobrazovat/skrýt "
+
+#: add-locations.php:83
+#: add-locations.php:87
+msgid "Location Name"
+msgstr "Jméno lokality"
+
+#: add-locations.php:84
+#: add-locations.php:88
+msgid "Address (Street - Line1)"
+msgstr "Adresa (Ulice - Rádka1)"
+
+#: add-locations.php:85
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adresa (Ulice - Rádka2 - fakultativní)"
+
+#: add-locations.php:86
+msgid "City, State Zip"
+msgstr "Město, poštovní směrové číslo "
+
+#: add-locations.php:89
+msgid "Address (Street - Line 2 - optional)"
+msgstr "Adresa (Ulice - Rádka2 - fakultativní)"
+
+#: add-locations.php:90
+#: functions.sl.php:439
+#: view-locations.php:112
+msgid "City"
+msgstr "Město"
+
+#: add-locations.php:91
+#: functions.sl.php:440
+#: view-locations.php:113
+msgid "State"
+msgstr "Stát "
+
+#: add-locations.php:92
+#: functions.sl.php:441
+#: view-locations.php:114
+msgid "Zip"
+msgstr "Poštovní směrové číslo "
+
+#: add-locations.php:93
+msgid "Show/Hide More Fields"
+msgstr "Zobrazovat/Skrýt více pole"
+
+#: add-locations.php:95
+msgid "Tags (seperate with commas)"
+msgstr "Štítky (oddělte mezerami)"
+
+#: add-locations.php:96
+#: functions.sl.php:443
+#: view-locations.php:118
+msgid "Description"
+msgstr "Popis"
+
+#: add-locations.php:97
+#: functions.sl.php:445
+#: view-locations.php:119
+msgid "URL"
+msgstr "URL"
+
+#: add-locations.php:98
+#: functions.sl.php:444
+#: view-locations.php:120
+msgid "Hours"
+msgstr "Otevírací doba "
+
+#: add-locations.php:99
+#: functions.sl.php:446
+#: view-locations.php:121
+msgid "Phone"
+msgstr "Telefon"
+
+#: add-locations.php:100
+msgid "Image (shown on map with location)"
+msgstr "Obrázek (se bude zobrazovat s lokalitou)"
+
+#: add-locations.php:102
+msgid "Add Location"
+msgstr "Přidat lokalitu"
+
+#: api-key.php:13
+#: map-designer.php:30
+msgid "Successful Update"
+msgstr "Aktualizace byla úspěšná"
+
+#: api-key.php:16
+msgid "Update Your Google API Key"
+msgstr "Aktualizovat Google API Key"
+
+#: api-key.php:16
+msgid "Your API Key Status"
+msgstr "Stav API Key"
+
+#: api-key.php:22
+msgid "Please Update Your Google API Key"
+msgstr "Aktualizujte Google API Key "
+
+#: api-key.php:25
+msgid "API Key Submitted"
+msgstr "API Key odeslán"
+
+#: api-key.php:28
+#: functions.sl.php:397
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: api-key.php:28
+msgid "Note: <br>"
+msgstr "Poznámka: <br>"
+
+#: api-key.php:40
+msgid "Select Your Location"
+msgstr "Vyberte lokalitu"
+
+#: api-key.php:71
+msgid "Select Distance Unit"
+msgstr "Vyberte měřítko"
+
+#: api-key.php:80
+#: map-designer.php:123
+#: view-locations.php:142
+msgid "Update"
+msgstr "Aktualizace"
+
+#: functions.sl.php:192
+msgid "Address "
+msgstr "Adresa"
+
+#: functions.sl.php:193
+#, fuzzy
+msgid "Received status "
+msgstr "Stav "
+
+#: functions.sl.php:373
+msgid "Enter Your Address or Zip Code Above"
+msgstr "Zadejte adresu nebo zip kód nahoře "
+
+#: functions.sl.php:392
+msgid "News & Upgrades"
+msgstr "Novinky & Aktualizace"
+
+#: functions.sl.php:393
+#: view-locations.php:13
+msgid "Manage Locations"
+msgstr "Spravovat lokality"
+
+#: functions.sl.php:395
+#: map-designer.php:32
+msgid "Map Designer"
+msgstr "Mapový konstruktér"
+
+#: functions.sl.php:397
+msgid "Localization"
+msgstr "Lokalizace"
+
+#: functions.sl.php:400
+msgid "ReadMe"
+msgstr "Cti mě "
+
+#: functions.sl.php:427
+msgid "Choose Heading That Matches Columns You Want to Import"
+msgstr "Vyberte titulky kteří chcete importovat a odpovídají sloupcům"
+
+#: functions.sl.php:427
+msgid "Leave headings for undesired columns unchanged"
+msgstr "Ponechat sloupcový titulky nezměněný"
+
+#: functions.sl.php:429
+#: functions.sl.php:468
+#: view-locations.php:142
+msgid "Cancel"
+msgstr "Storno"
+
+#: functions.sl.php:429
+#: functions.sl.php:468
+msgid "Import Locations"
+msgstr "Importovat lokality"
+
+#: functions.sl.php:435
+msgid "Choose"
+msgstr "Vybrat"
+
+#: functions.sl.php:436
+#: view-locations.php:109
+msgid "Name"
+msgstr "Jméno "
+
+#: functions.sl.php:437
+msgid "Street(Line1)"
+msgstr "Ulice(řádek1) "
+
+#: functions.sl.php:438
+msgid "Street(Line2)"
+msgstr "Ulice(řádek2) "
+
+#: functions.sl.php:442
+#: mgmt-buttons-links.php:16
+#: view-locations.php:115
+msgid "Tags"
+msgstr "Stítky"
+
+#: functions.sl.php:447
+#: view-locations.php:122
+msgid "Image"
+msgstr "Obrázek"
+
+#: functions.sl.php:448
+msgid "Is Private?"
+msgstr "Soukromý?"
+
+#: functions.sl.php:537
+msgid "You haven't activated this upgrade yet"
+msgstr "Tento upgrade dosud nebyl aktivován"
+
+#: functions.sl.php:537
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: map-designer.php:32
+msgid "Option"
+msgstr "Nastavení"
+
+#: map-designer.php:32
+msgid "Value"
+msgstr "Hodnota"
+
+#: map-designer.php:91
+msgid "Choose Default Map Type Shown to Visitors"
+msgstr "Vyberte mapu která se bude zobrazovat"
+
+#: map-designer.php:93
+msgid "Allow User Search By City?"
+msgstr "Povolit vyhledávání podle města"
+
+#: map-designer.php:95
+msgid "Show Locations By Default When Map Loads?"
+msgstr "Standardně zobrazovat lokality při nakládání?"
+
+#: map-designer.php:97
+msgid "Number of Locations Shown By Default"
+msgstr "Standardně se budou zobrazovat tolik lokality"
+
+#: map-designer.php:99
+msgid "Allow User Search By Name of Location?"
+msgstr "Povolit vyhledávání podle jména lokality"
+
+#: map-designer.php:101
+msgid "Address Input Label"
+msgstr "Adresový vstupní oblast (nálepka)"
+
+#: map-designer.php:103
+#, fuzzy
+msgid "Radius Dropdown Label"
+msgstr "Rozevírací nálepka (rádius)"
+
+#: map-designer.php:105
+msgid "Website URL Label"
+msgstr "Webová URL s nálepkou"
+
+#: map-designer.php:107
+msgid "Default Map Zoom Level"
+msgstr "Standardní translokační hodnota "
+
+#: map-designer.php:109
+msgid "Map Height"
+msgstr "Mapová výška"
+
+#: map-designer.php:111
+msgid "Map Width"
+msgstr "Mapová šířka"
+
+#: map-designer.php:113
+msgid "Map Radii Options (in "
+msgstr "Radiusový nastavení (v"
+
+#: map-designer.php:114
+msgid "Note: Seperate each number with a comma ',' , and put paratheseses '( )' around the default radius you would like to show"
+msgstr "Poznámka: Každé číslo oddělujte čárkami ',' , a dejte závorka '( )' kolem standardní rádius který byste chtěli zobrazovat   "
+
+#: map-designer.php:115
+msgid "Choose Theme"
+msgstr "Vybrat motiv"
+
+#: map-designer.php:115
+msgid "No Theme Selected"
+msgstr "Zádný motiv vybrán"
+
+#: map-designer.php:116
+msgid "Remove Credits?"
+msgstr "Vymazat Credits?"
+
+#: map-designer.php:118
+msgid "Home Icon"
+msgstr "Domovský icon"
+
+#: map-designer.php:120
+msgid "Destination Icon"
+msgstr "Cílový icon"
+
+#: map-designer.php:122
+msgid "Looking to create or find a unique icon? For ideas, visit"
+msgstr "Chcete vytvořit nebo najit unikátní icon? Nápady jsou"
+
+#: mgmt-buttons-links.php:5
+msgid "Delete Selected"
+msgstr "Vymazat označený"
+
+#: mgmt-buttons-links.php:5
+#: mgmt-buttons-links.php:16
+msgid "You sure"
+msgstr "Jste si jistý?"
+
+#: mgmt-buttons-links.php:16
+msgid "Tag Selected"
+msgstr "Štítek vybrán"
+
+#: mgmt-buttons-links.php:16
+msgid "Remove Tag From Selected"
+msgstr "Vymazat všechny štítky vybrané rubriky"
+
+#: news-upgrades.php:10
+msgid "Latest News"
+msgstr "Poslední zprávy"
+
+#: news-upgrades.php:54
+msgid "Activation Keys"
+msgstr "Aktivační klíč"
+
+#: news-upgrades.php:81
+msgid "Key"
+msgstr "Klíč"
+
+#: news-upgrades.php:93
+msgid "Update All"
+msgstr "Všechno aktualizovat"
+
+#: news-upgrades.php:94
+msgid "Looking for more upgrades & themes"
+msgstr "Více upgrades & motivy"
+
+#: news-upgrades.php:94
+msgid "It's all right here"
+msgstr "Všechno je právě zde"
+
+#: news-upgrades.php:105
+msgid "Addons & Themes"
+msgstr "Doplňky & Motivy"
+
+#: variables.sl.php:9
+msgid "View All Locations"
+msgstr "Zobrazit všechny lokality"
+
+#: view-locations.php:95
+msgid "Current View"
+msgstr "Aktuální pohled"
+
+#: view-locations.php:95
+msgid "Change View"
+msgstr "Změnit pohled"
+
+#: view-locations.php:98
+msgid "Updater"
+msgstr "Aktualizační program "
+
+#: view-locations.php:98
+msgid "Change Updater"
+msgstr "Změnit aktualizaci"
+
+#: view-locations.php:107
+msgid "Actions"
+msgstr "Akce"
+
+#: view-locations.php:108
+msgid "ID"
+msgstr "ID"
+
+#: view-locations.php:110
+msgid "Street"
+msgstr "Ulice"
+
+#: view-locations.php:111
+msgid "Street2"
+msgstr "Ulice2"
+
+#: view-locations.php:164
+#: view-locations.php:165
+#: view-locations.php:166
+msgid "View"
+msgstr "Zobrazit"
+
+#: view-locations.php:170
+msgid "Edit"
+msgstr "Upravovat"
+
+#: view-locations.php:170
+msgid "Delete"
+msgstr "Vymazat"
+
+#: view-locations.php:194
+msgid "No Locations Showing for this Search of "
+msgstr "Zádný výsledky nejsou pro "
+
+#: view-locations.php:194
+msgid "No Locations Currently in Database"
+msgstr "Zádná lokalita není nalezena"
+
+#. Plugin Name of an extension
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#. Plugin URI of an extension
+msgid "http://www.viadat.com/store-locator"
+msgstr "http://www.viadat.com/store-locator"
+
+#. Description of an extension
+msgid "A store locator / location finder plugin focused on providing mapping tools for web designers & developers who create sites in Wordpress & web site owners needing to show important stores or any other type of location."
+msgstr "Store locator plugin pro WordPress umožňuje zobrazovat důležité lokality (mohou být prodejna nebo cokoli jiného) na Google Maps. "
+
+#. Author of an extension
+msgid "Viadat Creations"
+msgstr "Viadat Creations"
+
+#. Author URI of an extension
+msgid "http://www.viadat.com"
+msgstr "http://www.viadat.com"
+
